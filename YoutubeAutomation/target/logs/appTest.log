@@ -1,0 +1,207 @@
+2016-12-29 00:40:55,437 INFO  [main] Browser started
+2016-12-29 00:42:05,558 INFO  [main] Browser started
+2016-12-29 00:44:10,683 INFO  [main] Browser started
+2016-12-29 00:45:07,602 INFO  [main] Browser started
+2016-12-29 00:45:13,067 INFO  [main] Login page opened
+2016-12-29 01:40:30,028 INFO  [main] Browser started
+2016-12-29 01:41:14,579 INFO  [main] Browser started
+2016-12-29 01:42:32,345 INFO  [main] Browser started
+2016-12-29 01:44:33,938 INFO  [main] Browser started
+2016-12-29 01:44:41,173 INFO  [main] main page
+2016-12-29 01:47:17,350 INFO  [main] Browser started
+2016-12-29 01:47:22,065 INFO  [main] main page
+2016-12-29 01:47:41,881 INFO  [main] Browser started
+2016-12-29 01:47:44,969 INFO  [main] main page
+2016-12-29 01:51:37,310 INFO  [main] Browser started
+2016-12-29 01:51:41,685 INFO  [main] main page
+2016-12-29 01:56:24,495 INFO  [main] Browser started
+2016-12-29 01:57:47,286 INFO  [main] Browser started
+2016-12-29 01:57:49,741 INFO  [main] main page
+2016-12-29 01:57:49,825 INFO  [main] Login page opened
+2016-12-29 02:04:18,212 INFO  [main] Browser started
+2016-12-29 02:04:24,643 INFO  [main] main page
+2016-12-29 02:05:55,337 INFO  [main] Browser started
+2016-12-29 02:05:58,397 INFO  [main] main page
+2016-12-29 02:05:58,444 INFO  [main] Login page opened
+2016-12-29 02:07:31,472 INFO  [main] Browser started
+2016-12-29 02:07:34,549 INFO  [main] main page
+2016-12-29 02:07:34,619 INFO  [main] Login page opened
+2016-12-29 02:09:44,165 INFO  [main] Browser started
+2016-12-29 02:09:46,515 INFO  [main] main page
+2016-12-29 02:09:46,578 INFO  [main] Login page opened
+2016-12-29 02:11:20,686 INFO  [main] Browser started
+2016-12-29 02:11:23,317 INFO  [main] main page
+2016-12-29 02:11:23,363 INFO  [main] Login page opened
+2016-12-29 02:12:13,607 INFO  [main] Browser started
+2016-12-29 02:12:16,420 INFO  [main] main page
+2016-12-29 02:12:16,492 INFO  [main] Login page opened
+2016-12-29 02:12:19,106 INFO  [main] Login performed
+2016-12-29 02:16:57,495 INFO  [main] Browser started
+2016-12-29 02:17:03,116 INFO  [main] main page
+2016-12-29 02:17:03,174 INFO  [main] Login page opened
+2016-12-29 02:17:06,395 INFO  [main] Login performed
+2016-12-29 02:20:56,277 INFO  [main] Browser started
+2016-12-29 02:20:58,836 INFO  [main] main page
+2016-12-29 02:20:58,891 INFO  [main] Login page opened
+2016-12-29 02:21:02,304 INFO  [main] email performed
+2016-12-29 02:29:20,119 INFO  [main] Browser started
+2016-12-29 02:29:23,434 INFO  [main] main page
+2016-12-29 02:29:23,496 INFO  [main] Login page opened
+2016-12-29 02:29:25,484 INFO  [main] email performed
+2016-12-29 02:33:17,028 INFO  [main] Browser started
+2016-12-29 02:33:21,210 INFO  [main] main page
+2016-12-29 02:33:21,356 INFO  [main] Login page opened
+2016-12-29 02:33:24,158 INFO  [main] email performed
+2016-12-29 02:41:25,070 INFO  [main] Browser started
+2016-12-29 02:41:31,686 INFO  [main] main page
+2016-12-29 02:41:31,771 INFO  [main] Login page opened
+2016-12-29 02:41:34,901 INFO  [main] email performed
+2016-12-29 02:50:41,279 INFO  [main] Browser started
+2016-12-29 02:50:50,469 INFO  [main] main page
+2016-12-29 02:50:50,537 INFO  [main] Login page opened
+2016-12-29 02:50:53,724 INFO  [main] email performed
+2016-12-29 02:55:13,686 INFO  [main] Browser started
+2016-12-29 02:55:17,122 INFO  [main] main page
+2016-12-29 02:55:17,170 INFO  [main] Login page opened
+2016-12-29 02:55:19,107 INFO  [main] email performed
+2016-12-29 02:56:37,572 INFO  [main] Browser started
+2016-12-29 02:56:41,020 INFO  [main] main page
+2016-12-29 02:56:41,071 INFO  [main] Login page opened
+2016-12-29 02:56:43,160 INFO  [main] email performed
+2016-12-29 02:59:41,486 INFO  [main] Browser started
+2016-12-29 02:59:47,508 INFO  [main] main page
+2016-12-29 03:00:30,095 INFO  [main] Browser started
+2016-12-29 03:00:33,919 INFO  [main] main page
+2016-12-29 03:00:34,007 INFO  [main] Login page opened
+2016-12-29 03:00:36,871 INFO  [main] email performed
+2016-12-29 03:02:57,546 INFO  [main] Browser started
+2016-12-29 03:03:01,343 INFO  [main] main page
+2016-12-29 03:03:01,390 INFO  [main] Login page opened
+2016-12-29 03:03:04,031 INFO  [main] email performed
+2016-12-29 03:06:51,433 INFO  [main] Browser started
+2016-12-29 03:06:56,652 INFO  [main] main page
+2016-12-29 03:06:56,719 INFO  [main] Login page opened
+2016-12-29 03:06:59,147 INFO  [main] email performed
+2016-12-29 03:07:53,794 INFO  [main] Browser started
+2016-12-29 03:07:56,582 INFO  [main] main page
+2016-12-29 03:07:56,652 INFO  [main] Login page opened
+2016-12-29 03:07:58,838 INFO  [main] email performed
+2016-12-29 03:07:59,985 INFO  [main] password performed
+2016-12-29 03:08:03,482 INFO  [main] like 0
+2016-12-29 03:08:05,647 INFO  [main] like 1
+2016-12-29 03:14:45,410 INFO  [main] Browser started
+2016-12-29 03:14:48,083 INFO  [main] main page
+2016-12-29 03:14:48,146 INFO  [main] Login page opened
+2016-12-29 03:14:50,858 INFO  [main] email performed
+2016-12-29 03:14:51,988 INFO  [main] password performed
+2016-12-29 03:14:54,485 INFO  [main] like 0
+2016-12-29 03:14:55,459 INFO  [main] like 1
+2016-12-29 03:21:06,872 INFO  [main] Browser started
+2016-12-29 03:21:09,437 INFO  [main] main page
+2016-12-29 03:21:09,515 INFO  [main] Login page opened
+2016-12-29 03:21:11,274 INFO  [main] email performed
+2016-12-29 03:21:12,422 INFO  [main] password performed
+2016-12-29 03:21:15,251 INFO  [main] like 1
+2016-12-29 03:23:21,879 INFO  [main] Browser started
+2016-12-29 03:23:24,670 INFO  [main] main page
+2016-12-29 03:23:24,758 INFO  [main] Login page opened
+2016-12-29 03:23:27,053 INFO  [main] email performed
+2016-12-29 03:23:28,198 INFO  [main] password performed
+2016-12-29 03:23:31,749 INFO  [main] like 1
+2016-12-29 03:48:20,732 INFO  [main] Browser started
+2016-12-29 03:48:27,301 INFO  [main] main page
+2016-12-29 03:48:27,356 INFO  [main] Login page opened
+2016-12-29 03:48:30,392 INFO  [main] email performed
+2016-12-29 03:48:31,580 INFO  [main] password performed
+2016-12-29 03:48:36,363 INFO  [main] like 1
+2016-12-29 04:20:55,130 INFO  [main] Browser started
+2016-12-29 04:21:27,381 INFO  [main] Browser started
+2016-12-29 04:21:37,622 INFO  [main] main page
+2016-12-29 04:21:37,714 INFO  [main] Login page opened
+2016-12-29 04:21:42,232 INFO  [main] email performed
+2016-12-29 04:21:43,351 INFO  [main] password performed
+2016-12-29 04:21:49,242 INFO  [main] like 1
+2016-12-29 04:22:38,011 INFO  [main] Browser started
+2016-12-29 04:22:44,479 INFO  [main] main page
+2016-12-29 04:22:44,540 INFO  [main] Login page opened
+2016-12-29 04:22:47,634 INFO  [main] email performed
+2016-12-29 04:22:48,829 INFO  [main] password performed
+2016-12-29 04:29:53,752 INFO  [main] Browser started
+2016-12-29 04:29:58,249 INFO  [main] main page
+2016-12-29 04:29:58,321 INFO  [main] Login page opened
+2016-12-29 04:30:00,762 INFO  [main] email performed
+2016-12-29 04:30:01,892 INFO  [main] password performed
+2016-12-29 04:32:10,992 INFO  [main] Browser started
+2016-12-29 04:32:15,444 INFO  [main] main page
+2016-12-29 04:32:15,500 INFO  [main] Login page opened
+2016-12-29 04:32:17,825 INFO  [main] email performed
+2016-12-29 04:32:18,935 INFO  [main] password performed
+2016-12-29 04:37:16,016 INFO  [main] Browser started
+2016-12-29 04:37:20,940 INFO  [main] main page
+2016-12-29 04:37:21,000 INFO  [main] Login page opened
+2016-12-29 04:37:23,442 INFO  [main] email performed
+2016-12-29 04:37:24,701 INFO  [main] password performed
+2016-12-29 04:37:27,091 INFO  [main] like 00
+2016-12-29 04:37:28,000 INFO  [main] like 1
+2016-12-29 04:38:59,954 INFO  [main] Browser started
+2016-12-29 04:39:02,953 INFO  [main] main page
+2016-12-29 04:39:03,004 INFO  [main] Login page opened
+2016-12-29 04:39:05,817 INFO  [main] email performed
+2016-12-29 04:39:06,977 INFO  [main] password performed
+2016-12-29 04:39:08,921 INFO  [main] like 00
+2016-12-29 04:40:22,442 INFO  [main] Browser started
+2016-12-29 04:40:25,176 INFO  [main] main page
+2016-12-29 04:40:25,234 INFO  [main] Login page opened
+2016-12-29 04:40:27,493 INFO  [main] email performed
+2016-12-29 04:40:56,538 INFO  [main] Browser started
+2016-12-29 04:40:58,852 INFO  [main] main page
+2016-12-29 04:40:58,921 INFO  [main] Login page opened
+2016-12-29 04:41:01,420 INFO  [main] email performed
+2016-12-29 04:41:02,567 INFO  [main] password performed
+2016-12-29 04:41:04,480 INFO  [main] like 00
+2016-12-29 04:41:05,413 INFO  [main] like 1
+2016-12-29 04:42:00,115 INFO  [main] Browser started
+2016-12-29 04:42:04,226 INFO  [main] main page
+2016-12-29 04:45:01,809 INFO  [main] Browser started
+2016-12-29 04:45:07,265 INFO  [main] main page
+2016-12-29 04:45:07,318 INFO  [main] Login page opened
+2016-12-29 04:45:10,935 INFO  [main] email performed
+2016-12-29 04:45:12,170 INFO  [main] password performed
+2016-12-29 04:45:14,301 INFO  [main] like 00
+2016-12-29 04:45:15,256 INFO  [main] like 1
+2016-12-29 04:48:58,064 INFO  [main] Browser started
+2016-12-29 04:49:02,700 INFO  [main] main page
+2016-12-29 04:49:02,823 INFO  [main] Login page opened
+2016-12-29 04:49:06,634 INFO  [main] email performed
+2016-12-29 04:49:07,800 INFO  [main] password performed
+2016-12-29 04:49:10,104 INFO  [main] like 00
+2016-12-29 04:49:11,416 INFO  [main] like 1
+2016-12-29 04:57:24,239 INFO  [main] Browser started
+2016-12-29 04:57:29,430 INFO  [main] main page
+2016-12-29 04:57:29,506 INFO  [main] Login page opened
+2016-12-29 04:57:33,856 INFO  [main] email performed
+2016-12-29 04:57:35,146 INFO  [main] password performed
+2016-12-29 05:00:49,535 INFO  [main] Browser started
+2016-12-29 05:00:51,953 INFO  [main] main page
+2016-12-29 05:00:52,028 INFO  [main] Login page opened
+2016-12-29 05:00:54,517 INFO  [main] email performed
+2016-12-29 05:00:55,627 INFO  [main] password performed
+2016-12-29 05:03:08,157 INFO  [main] Browser started
+2016-12-29 05:03:10,687 INFO  [main] main page
+2016-12-29 05:03:10,748 INFO  [main] Login page opened
+2016-12-29 05:03:13,172 INFO  [main] email performed
+2016-12-29 05:03:14,388 INFO  [main] password performed
+2016-12-29 05:03:14,416 INFO  [main] https://accounts.google.com/ServiceLogin?passive=true&hl=ru&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dsign_in_button%26hl%3Dru%26next%3D%252F%26action_handle_signin%3Dtrue%26app%3Ddesktop&uilel=3&service=youtube#password
+2016-12-29 05:04:07,754 INFO  [main] Browser started
+2016-12-29 05:04:10,161 INFO  [main] main page
+2016-12-29 05:04:10,240 INFO  [main] Login page opened
+2016-12-29 05:04:12,694 INFO  [main] email performed
+2016-12-29 05:04:13,833 INFO  [main] password performed
+2016-12-29 05:04:13,842 INFO  [main] https://accounts.google.com/ServiceLogin?hl=ru&uilel=3&service=youtube&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dru%26feature%3Dsign_in_button%26app%3Ddesktop%26action_handle_signin%3Dtrue%26next%3D%252F#password
+2016-12-29 05:05:53,948 INFO  [main] Browser started
+2016-12-29 05:05:59,659 INFO  [main] main page
+2016-12-29 05:05:59,820 INFO  [main] Login page opened
+2016-12-29 05:06:03,539 INFO  [main] email performed
+2016-12-29 05:06:05,070 INFO  [main] password performed
+2016-12-29 05:06:06,136 INFO  [main] https://accounts.google.com/CheckCookie?hl=ru&checkedDomains=youtube&checkConnection=youtube%3A667%3A1&pstMsg=1&chtml=LoginDoneHtml&service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252F%26hl%3Dru%26feature%3Dsign_in_button%26app%3Ddesktop&gidl=EgIIAA
+2016-12-29 05:55:08,628 INFO  [main] Browser started
